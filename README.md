@@ -58,6 +58,13 @@ Install php dependecies:
 
 ### Deploy to Heroku
 
+* Fork this Repo
+* Edit config.herokusample.php and rename to config.php .
+* Edit config.php with your IMAP Server URL, username and password.
+* Edit src/index.php and src/json-api.php .
+* Change '../../config.php'; to '.././config.php';
+* Click on Deploy Button.
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Credit :thumbsup:
