@@ -5,6 +5,8 @@
     "gnugat/PronounceableWord": "*",
     "ezyang/htmlpurifier": "^4.10",
     "fightbulc/moment": "*"
+    "lib-curl": "7.*"
+    
   },
   "config": {
     "vendor-dir": "src/backend-libs"
